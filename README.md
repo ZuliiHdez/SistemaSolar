@@ -69,6 +69,6 @@ El proyecto incluye un **HUD integrado** que muestra los controles directamente 
 <img width="451" height="275" alt="image" src="https://github.com/user-attachments/assets/7a093236-d218-4b79-ba66-8bf897141793" />
 
 ## 🔗 Enlace CodeSandbox
-[Ir a CodeSandbox](https://codesandbox.io/p/github/ZuliiHdez/SistemaSolar/draft/nervous-resonance)
+[Ir a CodeSandbox](https://codesandbox.io/p/sandbox/wild-resonance-534v2h)
 
 
